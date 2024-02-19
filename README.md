@@ -2,6 +2,8 @@
 
 <h3 align="center">This is a repo to collect signatures from all over, from anyone and everyone.</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=signtherepo&label=Profile%20views&color=0e75b6&style=flat" alt="signtherepo" /></p>
+
 <h2>How It Works:</h2>
 
 <h4>Signatures consist of two parts:</h4>
