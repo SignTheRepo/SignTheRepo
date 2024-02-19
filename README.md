@@ -27,3 +27,10 @@ with your name or title, as well as your short message, quote, or link.
 </p>
 
 <h4>All signatures will be approved if deemed appropriate and authentic, and will be dated upon their addition to the repo.</h4>
+
+<br/>
+
+<h5 align="center">Questions?</h5>
+<h6 align="center">
+  E-mail <a href="mailto:signtherepo@gmail.com?subject=Question">signtherepo@gmail.com</a>
+</h6>
